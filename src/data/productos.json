@@ -1,0 +1,36 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Papel higienico",
+        "precio": 2000,
+        "imagen": "./public/image/product1.png",
+        "descripcion": "Felpita",
+        "categoria": {
+            "id": "papel higienico",
+            "nombre": "Papel higienico"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Desodorante",
+        "precio": 4000,
+        "imagen": "./public/image/product2.png",
+        "descripcion": "Axe",
+        "categoria": {
+            "id": "desodorante",
+            "nombre": "Desodorante"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Detergente",
+        "precio": 3500,
+        "imagen": "./public/image/product3.png",
+        "descripcion": "Magistral",
+        "categoria": {
+            "id": "detergente",
+            "nombre": "Detergente"
+        }
+    }
+]
